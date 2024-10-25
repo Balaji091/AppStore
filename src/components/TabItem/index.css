@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+    font-style: italic;
+   
+
+}
+.hover{
+    color:red;
+}
+.no-hover{
+    color: grey;
+}
